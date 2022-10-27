@@ -1,0 +1,59 @@
+1.act#book*crowd
+actdancebookexcrowd 	YES
+actfacebookexcrowd	NO
+QUIT
+
+2.*gap#hang
+inflategapjokehang	NO
+gapking			NO
+kettlegapliehang	YES
+QUIT
+
+3.#mask
+networkmask		YES
+QUIT
+
+4.outer*
+qualityouter		NO
+president		NO
+outerspace		NO
+outerresource		YES
+QUIT
+
+5.kidney
+loss			NO
+market			NO
+kidney			YES
+QUIT
+
+6.night*official
+nightpleaseofficial	YES
+quotaofficialnight	NO
+QUIT
+
+7.#ruin*skip*
+tipruinupskipvein	YES
+weaveruinyearskipzero	YES
+skipanimalruin		NO
+sruinzeroskiparch	YES
+weruinbarskipcalf	NO
+QUIT
+
+8.*betray#
+degreebetraycreed	YES
+QUIT
+
+9.curve#dash
+curveflatdash		NO
+curveguestdash		YES
+dashofcurve		NO
+dashcatcurve		NO
+curvekitchendash	YES
+QUIT
+
+10.*key*link#
+winterkeymelinknew	YES
+youthkeyorderlinkpin	NO
+quaintkeyrolllinksword	YES
+tablekeyuselinkvan	NO
+QUIT
